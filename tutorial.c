@@ -1,5 +1,3 @@
-
-
 #include "tutorial.h"
 
 int	gen_trgb(int opacity, int red, int green, int blue)
